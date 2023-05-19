@@ -1,0 +1,140 @@
+body{
+	height: 730px;
+	width: 900px;
+	background-image: linear-gradient(to top right,yellow,deeppink,rebeccapurple);
+}
+*{
+	font-family: 'Poppins', sans-serif;
+	color: ghostwhite;
+}
+h2{
+	margin-left: 20px;
+}
+.d1{
+	position: relative;
+	left: 600px;
+	top: -110px;
+	text-align: center;
+}
+ul{
+	text-decoration: none;
+}
+li{
+	display: block;
+	font-size: 15px;
+}
+.d1 ul{
+	list-style: none;
+	display: inline-flex;
+}
+.d1 ul li{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: 35px;
+	text-align: center;
+}
+.d1 ul li:hover{
+	text-decoration:underline ;
+	transform: scale(1.1);
+	cursor: default;
+}
+.d2{
+	margin-top: -50px;
+	margin-left: 50px;
+}
+#p1{
+	margin: 30px;
+	font-size: 70px;
+}
+#p2{
+	margin: 20px;
+	margin-left: 50px;
+}
+#p3{
+	margin: 20px;
+	margin-left: 40px;
+	width: 650px;
+}
+button{
+	display: block;
+	border: none;
+	margin: 10px;
+	margin-top: 50px;
+	margin-left: 50px;
+	padding: 15px 25px;
+	border-radius: 30px;
+	text-align: center;
+	text-decoration: none;
+	background-image: linear-gradient(to right,deeppink,yellow);
+	cursor: pointer;
+}
+button:hover{
+	transform: scale(1.1);
+}
+.d3{
+	position: relative;
+	margin-top: -450px;
+	margin-left: 880px;
+	padding: 20px;
+	height: 500px;
+	width: 500px;
+}
+#s1{
+	background: url("http://www.wallpaperg.com/uploads/backgrounds/1516872643-anime-girl-listening-music-www.wallpaperg.com.jpg");
+	height: 500px;
+	width: 500px;
+	background-repeat: no-repeat;
+	background-size: 500px 500px;
+	border: none;
+	border-radius: 200% 120% 120% 200%/150% 150% 150% 150% ;
+}
+.s{
+	background-image: linear-gradient(to right,yellow,deeppink);
+	border: none;
+	transform: rotate(340deg);
+}
+.s1{
+	height: 80px;
+	width: 100px;
+	border-radius: 100px/80px;
+	margin-top: -100px;
+}
+.s2{
+	position: absolute;
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	margin-left: 200px;
+	margin-top: -510px;
+}
+.s3{
+	position: relative;
+	height: 30px;
+	width: 30px;
+	border-radius: 50%;
+	margin-top: -300px;
+}
+#s2{
+	margin-top: 50px;
+	border: 2px solid whitesmoke;
+	border-radius: 50%;
+	width: 670px;
+}
+.d41{
+	width: 200px;
+	margin-left: 690px;
+	margin-top: -20px;
+}
+.ic{
+	margin: 10px;
+	font-size: 30px;
+	color: whitesmoke;
+	background-color: transparent;
+}
+#s3{
+	margin-top: -30px;
+	border: 2px solid whitesmoke;
+	width: 650px;
+	margin-left: 870px;
+	border-radius: 50%;
+}
